@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 >#### Backend
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-logo.png" alt="Python" width="30" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-logo.png" alt="Django" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-logo.png" alt="Django" width="50" height="50"/></a>
 </p>
 
 >#### Frontend

@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <h4>Frontend</h4>
 <p>
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="images/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
 
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  </a>
+<img src="images/css3-original.svg">  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40"/>

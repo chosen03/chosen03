@@ -45,8 +45,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
-    <img src="images/css3.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40"/>

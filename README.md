@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="chosen03/images/django-logo.png" alt="Django" width="40" height="40"/>
+    <img src="images/django-logo.png" alt="Django" width="40" height="40"/>
   </a>
 </p>
 

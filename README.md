@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 
 >#### 👨🏽‍💻Tech Stack
-- Python/Django/Django-Rest-framework
+- Python/Django
 - HTML/CSS/Bootstrap
 - JavaScript
 

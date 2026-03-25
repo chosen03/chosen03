@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
-<img src="images/css3-original.png">  </a>
+<img src="images/css3-original.png" width="40" height="40">  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="images/javascript-original.png" alt="JavaScript" width="40" height="40"/>

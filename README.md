@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->### I'm Michael
+-->
+### I'm Michael
 >#### 🙋🏽‍♂️About Me
 - 🧑‍💻 Software Engineer | 2years experience.
 
@@ -32,9 +33,9 @@ Here are some ideas to get you started:
 
 >#### Frontend
 <p>
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="images/html5.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">></a>
 <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"> <img src="images/css3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/bootstrap-icons.png" alt="bootstrap" width="40" height="40"/> </a>
 
 </p>

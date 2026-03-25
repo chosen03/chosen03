@@ -26,16 +26,33 @@ Here are some ideas to get you started:
 - JavaScript
 
 
->#### Backend
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-logo.png" alt="Python" width="30" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-logo.png" alt="Django" width="40" height="40"/></a>
-</p>
-
->#### Frontend
+<!-- Backend -->
 <p>
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">></a>
-<a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"> <img src="images/css3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/bootstrap-icons.png" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="images/python-logo.png" alt="Python" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="images/django-logo.png" alt="Django" width="40" height="40"/>
+  </a>
 </p>
+
+<!-- Frontend -->
+<h4>Frontend</h4>
+<p>
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
+    <img src="images/css3.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="images/bootstrap-icons.png" alt="Bootstrap" width="40" height="40"/>
+  </a>
+</p>>
